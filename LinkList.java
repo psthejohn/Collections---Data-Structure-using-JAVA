@@ -1,5 +1,3 @@
-package com.geekster.november1.LinkedList;
-
 import java.io.*;
 
 //Java program to implement 
@@ -190,7 +188,7 @@ public class LinkList {
 		return size;
 	}
 
-	// Driver code
+	// Driver code to check if operations are working
 	public static void main(String[] args) {
 		/* Start with the empty list. */
 		LinkList list = new LinkList();
